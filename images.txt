@@ -4,7 +4,7 @@ redis:5.0
 phpmyadmin
 guacamole/guacd
 
-# 
+# instantbox
 instantbox/instantbox:latest
 instantbox/instantbox-frontend:latest
 instantbox/cron:latest
